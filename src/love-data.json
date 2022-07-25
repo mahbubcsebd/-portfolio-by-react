@@ -1,0 +1,22 @@
+[
+  {
+    "key": 1,
+    "img": "images/bloging.svg",
+    "title": "Bloging"
+  },
+  {
+    "key": 2,
+    "img": "images/travelling.svg",
+    "title": "Travelling"
+  },
+  {
+    "key": 3,
+    "img": "images/hiking.svg",
+    "title": "Mountain Hiking"
+  },
+  {
+    "key": 4,
+    "img": "images/swimming.svg",
+    "title": "Swimming"
+  }
+]

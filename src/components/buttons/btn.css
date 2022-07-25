@@ -1,0 +1,24 @@
+.myBtn{
+  display: inline-block;
+  border-style: solid;
+  border-width: 2px;
+  padding: 15px 25px;
+  border-radius: 4px;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.btn-1{
+    color: rgba(255, 255, 255, 0.85);
+    border-color: #00cf5d;
+    background-color: #00cf5d;
+}
+
+.btn-2{
+  margin-left: 15px;
+  color: rgba(255, 255, 255, 0.85);
+  border-color: #00cf5d;
+  background-color: transparent;
+}

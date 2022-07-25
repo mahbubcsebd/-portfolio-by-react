@@ -1,0 +1,33 @@
+.hero {
+  position: relative;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hero-content span{
+  font-size: 22px;
+    color: #00cf5d;
+}
+
+
+.hero-content h1{
+  font-size: 78px;
+  font-weight: 900;
+  margin-bottom: 25px;
+}
+
+.hero-content h3{
+  color: #00cf5d;
+}
+
+.hero-content ul{
+  list-style-type: circle !important;
+}
+
+.hero-content ul li{
+  position: relative;
+  margin-right: 25px;
+  color: hsla(0,0%,100%,.85);
+}

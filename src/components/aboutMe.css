@@ -1,0 +1,31 @@
+.about-me-content.row {
+  justify-content: center;
+  align-items: center;
+}
+
+.about-text p {
+  line-height: 2;
+  font-size: 18px;
+  color: hsla(0, 0%, 100%, .85);
+}
+
+.about-image {
+  text-align: center;
+}
+
+
+.my-image {
+  width: 320px;
+  border-radius: 10px;
+  transform: scale(.95);
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+  transition: all 1s;
+}
+
+.my-image:hover {
+  transform: scale(1);
+  filter: grayscale(0);
+}
+
+

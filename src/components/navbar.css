@@ -1,0 +1,13 @@
+a.nav-link {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  padding: 10px 15px !important;
+  margin-right: 5px;
+}
+
+a.resume-menu.nav-link {
+  border: 2px solid #00cf5d;
+  border-radius: 3px
+}

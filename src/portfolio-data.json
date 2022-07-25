@@ -1,0 +1,38 @@
+[
+    {
+        "key": 1,
+        "img": "images/portfolio-1.jpg",
+        "title": "Gradienta",
+        "text": "A Collection of free Multicolor CSS, JPG, PNG, SVG Gradients with a Gradienta Editor"
+    },
+    {
+        "key": 2,
+        "img": "images/portfolio-2.jpg",
+        "title": "DevSonket",
+        "text": "A Collection of Bengali Cheatsheets for the developers, completely open-source"
+    },
+    {
+        "key": 3,
+        "img": "images/portfolio-3.jpg",
+        "title": "js.zonayed.me",
+        "text": "Learn Practical use case of JavaScript in your everyday life, entirely in Bengali"
+    },
+    {
+        "key": 4,
+        "img": "images/portfolio-1.jpg",
+        "title": "Phonebook",
+        "text": "A CRUD Application to store your contact phone numbers, everything at one place"
+    },
+    {
+        "key": 5,
+        "img": "images/portfolio-2.jpg",
+        "title": "Holy Quran",
+        "text": "Read the Holy Quran with English Transaltion. Simple, basic and clean"
+    },
+    {
+        "key": 6,
+        "img": "images/portfolio-3.jpg",
+        "title": "To-do App",
+        "text": "Just another interactive, nice, beautiful and small to-do application. Does everything!"
+    }
+]
